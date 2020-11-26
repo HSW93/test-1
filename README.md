@@ -5,4 +5,4 @@
 
 작성한 소스 소개글
 
-![MacbookPRO](./images/images.jpg)
+![MacbookPRO](./images/images.png)
